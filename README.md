@@ -3,8 +3,8 @@
 Goal: Use a spring-mass system to simulate sheet (cloth) and volume (volumetric bunny). 
 
 
-Execution & Output
-
+**Execution & Output
+**
 Download the files and navigate to project repo and type the following in Terminal:
 
 ./mass_spring 0    # for cloth case 
@@ -13,6 +13,7 @@ Download the files and navigate to project repo and type the following in Termin
 
 The output will be a sequence of .poly files, which can be directly visualized by Houdini. A demo of my render can be found below!
 
-Demo: https://alicesbian.wixsite.com/portfolio/cg-and-animation
+
+**Demo:** https://alicesbian.wixsite.com/portfolio/cg-and-animation
 
 Look for bunny and cloth video under Simulations section.
