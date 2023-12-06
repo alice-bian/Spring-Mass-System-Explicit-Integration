@@ -1,6 +1,6 @@
 # Spring-Mass-System-Explicit-Integration-
 
-Goal: Use a spring-mass system to simulate sheet (cloth) and volume (volumetric bunny). <br />
+**Goal:** Use a spring-mass system to simulate sheet (cloth) and volume (volumetric bunny). <br />
 <br />
 
 **Execution & Output**
