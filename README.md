@@ -3,8 +3,8 @@
 Goal: Use a spring-mass system to simulate sheet (cloth) and volume (volumetric bunny). 
 
 
-**Execution & Output
-**
+**Execution & Output**
+
 Download the files and navigate to project repo and type the following in Terminal:
 
 ./mass_spring 0    # for cloth case 
